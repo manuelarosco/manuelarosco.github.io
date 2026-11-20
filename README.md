@@ -1,5 +1,7 @@
-## Hi there 👋
+# Welcome to my page
+## Hi! I'm Manuela Rosco 👋
 
+I'm a **Corporate Communication** Master’s Student at *University of Milan*.
 <!--
 **manuelarosco/manuelarosco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
